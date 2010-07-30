@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">aFlashcard</string>
+<string name="quizModeBtn">Quiz</string>
+<string name="memorizeModeBtn">记忆</string>
+<string name="settingBtn">设定</string>
+<string name="autoBtn">自动</string>
+<string name="manualBtn">手动</string>
+<string name="resetBtn">Reset</string>
+<string name="quizNextBtn">Next</string>
+<string name="slideTimeLable">Slide Time</string>
+<string name="slideTimeUnit">秒</string>
+<string name="settingCompleteBtn">适用</string>
+
+
+
+<string name="fomatError">文件格式错误</string>
+
+
+<string name="quizInput">输入</string>
+<string name="quizAnswer">答案</string>
+<string name="randomLabel">输出方法</string>
+<string name="random">随机</string>
+<string name="order">顺次</string>
+<string name="wordDisplayModeLabel">输出模式</string>
+<string name="wordDisplayModeProblem">只有一个问题</string>
+<string name="wordDisplayModeProblemAnswer">问题和答案</string>
+<string name="textSize">字体大小</string>
+
+
+
+<string name="fontSizeAutoLabel">自动字体</string>
+<string name="autoSizeOn">ON</string>
+<string name="autoSizeOff">OFF</string>
+<string name="displayOptionLabel">显示选项</string>
+<string name="displayOptionQA">问题-答案</string>
+<string name="displayOptionAQ">答案-问题</string>
+
+
+<string name="listStartMsgYes">是的</string>
+<string name="listStartMsgNo">不是</string>
+<string name="listBackBtn">目录</string>
+
+<string name="import_confirmMsgYes">IMPORT</string>
+<string name="import_confirmMsgNo">取消</string>
+<string name="import_FailMsgTitle">Import失败</string>
+
+
+
+
+<string name="import_FailMsg5">系统错误</string>
+
+<string name="import_SuccessMsgTitle">Import成功</string>
+<string name="import_OverWrite">覆盖？</string>
+<string name="contextMenuDelete">删除</string>
+<string name="contextMenuEdit">名称变更</string>
+
+<string name="deleteConfirmYes">删除</string>
+<string name="deleteConfirmNo">取消</string>
+<string name="editConfirmMsgTitle">名称变更</string>
+<string name="editConfirmYes">编辑</string>
+<string name="editConfirmNo">取消</string>
+
+
+
+
+<string name="renameError">未更改名称!</string>
+
+
+
+
+<string name="processMsg">处理…</string>
+<string name="aFlashcardwebAddress">http://www.itfrees.com/MemorizerList?userId=c_admin</string>
+</resources>

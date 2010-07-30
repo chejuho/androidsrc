@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xml:space="preserve">
+  <string-array name="fontSizeList">
+    <item>15</item>
+    <item>20</item>
+    <item>25</item>
+    <item>30</item>
+    <item>35</item>
+    <item>40</item>
+    <item>45</item>
+  </string-array>
+  <string-array name="importSuccessListMenu">
+    <item>IMPORT続き</item>
+    <item>IMPORTした暗記帳を学習</item>
+    <item>暗記帳へ</item>
+  </string-array>
+</resources>

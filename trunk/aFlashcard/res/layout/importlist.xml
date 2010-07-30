@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:id="@+id/LinearLayout01" 
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent"
+		android:background="#FFFFFF"
+		android:orientation="vertical"
+		xmlns:android="http://schemas.android.com/apk/res/android">
+		<LinearLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content"
+			android:background="#EEE8AA"
+			android:id="@+id/importdisplayPartTop"
+			android:gravity="left">
+		<ImageButton
+			android:id="@+id/listBackBtn" 
+			android:src="@drawable/listback"
+			android:layout_width="64dip" 
+			android:layout_height="54dip">
+		</ImageButton>
+		<ImageButton android:id="@+id/sdcardhomeBtn"
+		  android:src="@drawable/sdcard_icon"
+		  android:layout_width="54dip"
+		  android:layout_height="54dip"/>
+		</LinearLayout>
+		<LinearLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content"
+			android:id="@+id/importdisplayPart"
+			android:background="#FFFFFF"
+			android:gravity="center">
+			<ListView android:id="@+id/importlistview"
+				android:scrollingCache="false"
+	    		android:layout_height="wrap_content"
+	    		android:layout_width="fill_parent"/>
+			
+		</LinearLayout>
+    	
+</LinearLayout>
